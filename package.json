@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-telegram-watson-chatbot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "ibm-watson": "^5.4.0",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
